@@ -1,0 +1,29 @@
+#header {
+    color:White;
+}
+
+#section1  {
+    color:White;
+    
+
+}
+
+#section2 {
+    color :blanchedalmond;
+
+}
+
+
+body{
+    background-color: black;
+    text-align:center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 45%, rgba(2,2,144,1) 88%);
+
+    
+}
+
+img{
+    width: 500px;
+}
+
